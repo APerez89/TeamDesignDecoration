@@ -15,7 +15,8 @@
 <style lang="scss">
 // GLOBAL STYLES
 :root {
-  --dark-gray : #181818;
+  --dark-gray : #242424;
+  --light-gray: #575757;
 }
 
 * {
@@ -31,12 +32,11 @@
     width: 100%;
     display: flex;
     justify-content: space-between;
+    padding: 15px;
     .logo {
-      padding: 5px;
       img {
         width: 65px;
         height: 65px;
-        padding: 5px;
       }
     }
     .nav {
@@ -46,7 +46,7 @@
         font-size: 14px;
         letter-spacing: 1.4px;
         text-decoration: none;
-        padding: 0px 20px 12px 0px;
+        padding: 0px 16px 0px;
         &:visited {
           color: var(--dark-gray);
         }
