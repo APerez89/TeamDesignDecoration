@@ -17,7 +17,7 @@
 :root {
   --dark-gray : #242424;
   --light-gray: #575757;
-  --header-size-mb: 28px;
+  --header-lg-mb: 28px;
 }
 
 * {
@@ -57,7 +57,7 @@
 }
 
 h1 {
-  font-size: var(--header-size-mb);
+  font-size: var(--header-lg-mb);
   font-weight: 100;
   color: var(--dark-gray);
   padding: 15px 0;
