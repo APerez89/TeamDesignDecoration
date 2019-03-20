@@ -48,7 +48,7 @@
         font-size: 14px;
         letter-spacing: 1.4px;
         text-decoration: none;
-        padding: 0px 16px 0px;
+        padding-left: 16px;
         &:visited {
           color: var(--dark-gray);
         }
