@@ -17,6 +17,7 @@
 :root {
   --dark-gray : #242424;
   --light-gray: #575757;
+  --header-size-mb: 28px;
 }
 
 * {

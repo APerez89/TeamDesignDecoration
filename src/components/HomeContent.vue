@@ -20,7 +20,7 @@ export default {
 <style scoped lang="scss">
 .home-content {
   h1 {
-    font-size: 28px;
+    font-size: var(--header-size-mb);
     font-weight: 100;
     color: var(--dark-gray);
   }
