@@ -17,6 +17,7 @@
 :root {
   --dark-gray : #242424;
   --light-gray: #575757;
+  --bkgr-light-gray: #f6f6f6;
   --header-lg-mb: 28px;
 }
 
