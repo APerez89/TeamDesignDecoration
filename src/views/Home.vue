@@ -1,7 +1,6 @@
 <template>
   <div class="home">
     <HomeContent msg="Team Design & Decoration"/>
-    <div class="cover-img"></div>
   </div>
 </template>
 
