@@ -3,9 +3,9 @@
     <div id="nav-wrap">
       <a href="#" class="logo"> <img src="/img/logo.png" alt="TDD Logo"> </a>
       <div class="nav">
-        <router-link class="link" to="/">Home</router-link>
-        <router-link class="link" to="/about">About</router-link>
-        <router-link class="link" to="/projects">Projects</router-link>
+        <a href="#" class="link">Home</a>
+        <a href="#" class="link">About</a>
+        <a href="#" class="link">Projects</a>
       </div> <!-- Nav End -->
     </div> <!-- Nav Wrap End -->
     <router-view/>
