@@ -19,13 +19,8 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
 .home-content {
-  h1 {
-    font-size: var(--header-size-mb);
-    font-weight: 100;
-    color: var(--dark-gray);
-  }
   .cover-img {
-    padding: 20px 0px;
+    padding: 15px 0px;
     img {
       width: 100%;
     }

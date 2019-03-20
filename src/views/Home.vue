@@ -25,7 +25,7 @@ export default {
 <style lang="scss" scoped>
 // HOME STYLES
 .home {
-  padding: 15px;
+  padding: 0px 15px;
   text-align: center;
 }
 </style>

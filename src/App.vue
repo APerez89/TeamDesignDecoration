@@ -1,11 +1,11 @@
 <template>
   <div id="app">
     <div id="nav-wrap">
-      <a href="#" class="logo"> <img src="/img/logo.png" alt="TDD Logo"> </a>
+      <a href="/home" class="logo"> <img src="/img/logo.png" alt="TDD Logo"> </a>
       <div class="nav">
-        <a href="#" class="link">Home</a>
         <a href="#" class="link">About</a>
         <a href="#" class="link">Projects</a>
+        <a href="#" class="link">Contact</a>
       </div> <!-- Nav End -->
     </div> <!-- Nav Wrap End -->
     <router-view/>
@@ -54,5 +54,12 @@
       }
     }
   }
+}
+
+h1 {
+  font-size: var(--header-size-mb);
+  font-weight: 100;
+  color: var(--dark-gray);
+  padding: 15px 0;
 }
 </style>
