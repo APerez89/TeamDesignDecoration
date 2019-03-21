@@ -26,5 +26,6 @@ export default {
 // HOME STYLES
 .home {
   text-align: center;
+  margin: 20px 0;
 }
 </style>
