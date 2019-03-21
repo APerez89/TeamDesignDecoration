@@ -1,8 +1,7 @@
 <template>
   <div class="home-content">
-    <h1>{{ msg }}</h1>
     <div class="cover-img">
-      <img src="img/cover-img.jpg" alt="">
+      <img src="img/cover-img2.jpg" alt="">
     </div>
   </div>
 </template>

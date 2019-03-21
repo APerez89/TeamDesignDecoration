@@ -60,7 +60,7 @@
 h1 {
   font-size: var(--header-lg-mb);
   font-weight: 100;
-  color: var(--dark-gray);
+  color: var(--light-gray);
   padding-bottom: 20px;
 }
 </style>
