@@ -11,5 +11,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-
+.projects-container {
+  padding: 40px 15px;
+}
 </style>
