@@ -19,6 +19,10 @@ export default {
   .about {
     width: 100%;
     background-color: var(--bkgr-light-gray);
+    padding: 40px 15px;
+    h1 {
+      padding-bottom: 20px;
+    }
     p {
       text-align: left;
       letter-spacing: 1.3px;

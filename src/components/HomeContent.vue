@@ -19,8 +19,11 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
 .home-content {
+  h1 {
+    padding-bottom: 20px;
+  }
   .cover-img {
-    padding: 15px 0px;
+    padding-bottom: 40px;
     img {
       width: 100%;
     }
