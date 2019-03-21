@@ -1,5 +1,5 @@
 <template>
-  <div class="home">
+  <div class="home" id="home">
     <HomeContent msg="Team Design & Decoration"/>
     <About/>
     <Projects/>

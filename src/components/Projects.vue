@@ -1,5 +1,5 @@
 <template>
-  <div class="projects-container">
+  <div class="projects" id="projects">
     <h1>Our Projects</h1>
   </div>
 </template>
@@ -11,7 +11,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.projects-container {
+.projects {
   padding: 40px 15px;
 }
 </style>

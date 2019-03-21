@@ -1,5 +1,5 @@
 <template>
-  <div class="about">
+  <div class="about" id="about">
     <h1>About Team Design & Decoration</h1>
     <!-- eslint-disable -->
     <p>Rick Garofalo has been a champion in the design industry in the United States since the late 80's. Founded in 1988 by Rick, repertoire became one of the premier design ateliers in the United States bringing the worlds best design to Boston and eventually New York. Repertoire created residential and commercial projects of great distinction until 2005.</p>

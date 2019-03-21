@@ -1,10 +1,10 @@
 <template>
   <div id="app">
     <div id="nav-wrap">
-      <a href="/home" class="logo"> <img src="/img/logo.png" alt="TDD Logo"> </a>
+      <a href="#home" class="logo"> <img src="/img/logo.png" alt="TDD Logo"> </a>
       <div class="nav">
-        <a href="#" class="link">About</a>
-        <a href="#" class="link">Projects</a>
+        <a href="#about" class="link">About</a>
+        <a href="#projects" class="link">Projects</a>
         <a href="#" class="link">Contact</a>
       </div> <!-- Nav End -->
     </div> <!-- Nav Wrap End -->
