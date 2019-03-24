@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Arizona Retreat",
+    "cover": "1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Chelsea Loft",
+    "cover": "2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Coastal Connecticut",
+    "cover": "3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "East Hamptons New York",
+    "cover": "4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Greenwich Village Pied a Terre",
+    "cover": "5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Park Avenue Kitchen",
+    "cover": "6.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Westport Updated Farmhouse",
+    "cover": "7.jpg"
+  }
+]
